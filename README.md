@@ -19,17 +19,6 @@ A página inicial que é apresentada ao cliente logado possui uma listagem gráf
 ![](preview/image_3.png)
 
 
-## Bugs identificados
-Alguns dos bugs mais evidentes que foram identificados e podem vir a ser resolvidos em atualizações futuras:
-
-* O texto pronto de apoio (prompt text) no campo de texto referente ao CPF no frame de Login não é removido quando há uma entrada do usuário. 
-* Ao efetuar um cadastro não há nenhuma mensagem de confirmação e o usuário não é redirecionado para o frame de login.
-* O movimento da janela do software através do clique e arrasto do ponteiro sobre a barra de informações superior do software não possui um funcionamento satisfatório.
-* Em Contas do usuário os botões de "Gerar cartão virtual" e "Baixar relatório do mês" são meramente ilustrativos e não resultam em ações.
-* Em Contas as informações de "Saldo disponível" só são atualizadas quando os frames são alterados.
-* O Extrato só é atualizado quando o software é fechado e aberto novamente.
-
-
 ## Versões
 VERSÃO 1.0.0 [29/11/2018]
 * Login e cadastro de clientes
@@ -41,6 +30,17 @@ VERSÃO 1.0.0 [29/11/2018]
 * Efetuar transferências e empréstimos
 * Gerar extrato de conta corrente e conta poupança
 
+
+## Bugs identificados
+Alguns dos bugs mais evidentes que foram identificados e podem vir a ser resolvidos em atualizações futuras.
+
+> **v1.0.0**
+>> * O texto pronto de apoio (prompt text) no campo de texto referente ao CPF no frame de Login não é removido quando há uma entrada do usuário. <br/>
+>> * Ao efetuar um cadastro não há nenhuma mensagem de confirmação e o usuário não é redirecionado para o frame de login. <br/>
+>> * O movimento da janela do software através do clique e arrasto do ponteiro sobre a barra de informações superior do software não possui um funcionamento satisfatório. <br/>
+>> * Em Contas do usuário os botões de "Gerar cartão virtual" e "Baixar relatório do mês" são meramente ilustrativos e não resultam em ações. <br/>
+>> * Em Contas as informações de "Saldo disponível" só são atualizadas quando os frames são alterados. <br/>
+>> * O Extrato só é atualizado quando o software é fechado e aberto novamente. <br/>
 
 
 ## Construído com
