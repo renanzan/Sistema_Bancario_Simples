@@ -8,6 +8,8 @@ Trata-se de um trabalho final da cadeira de Banco de Dados 1 lecionada na Univer
 
 ***Os scripts de criação das tabelas do banco de dados necessárias para o funcionamento do programa estão inseridas dentro do próprio código. Em uma primeira execução do software só é necessário que o SGBD esteja sendo executado.***
 
+**Palavras chave:** Java, WindowsBuilder, Interface Gráfica, SGBD, MySql, Sistema Bancário
+
 ![](preview/image_1.png)
 
 Há um sistema de login e cadastro de cliente, os dados são armazenados no banco de dados.
